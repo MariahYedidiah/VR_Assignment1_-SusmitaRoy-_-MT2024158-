@@ -115,4 +115,7 @@ The following Python libraries are required to run the project:
 - `numpy`  
 - `matplotlib.pyplot`  
 
+To install them, run:  
 
+```bash
+pip install opencv-python numpy matplotlib
